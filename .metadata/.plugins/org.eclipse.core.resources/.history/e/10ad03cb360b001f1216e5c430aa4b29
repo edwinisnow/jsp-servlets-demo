@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Simple Form</title>
+</head>
+<body>
+
+<form action="XmlServletPath" method="post">
+	<input name="userName"/>
+	<input name="fullName"/>
+	Profession:
+	<input type="radio" name="prof" value="Developer">Developer</inpu>
+	<input type="submit" />
+</form>
+</body>
+</html>

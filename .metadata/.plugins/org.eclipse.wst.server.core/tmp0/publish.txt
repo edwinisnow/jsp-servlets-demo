@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Sun May 12 00:29:28 BST 2024
+org.eclipse.jst.jee.server\:JSPProject=/Users/edwingeorgelazer/Desktop/01_EDWIN/01_LEARNINGS/JAVA/SOFTWARES/apache-tomcat-9.0.88/wtpwebapps/JSPProject
+org.eclipse.jst.jee.server\:LoginApp=/Users/edwingeorgelazer/Desktop/01_EDWIN/01_LEARNINGS/JAVA/SOFTWARES/apache-tomcat-9.0.88/wtpwebapps/LoginApp
+org.eclipse.jst.jee.server\:SimpleServletProject=/Users/edwingeorgelazer/Desktop/01_EDWIN/01_LEARNINGS/JAVA/SOFTWARES/apache-tomcat-9.0.88/wtpwebapps/SimpleServletProject

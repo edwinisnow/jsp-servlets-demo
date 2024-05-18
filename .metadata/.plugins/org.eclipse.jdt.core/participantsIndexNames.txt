@@ -1,0 +1,7 @@
+INDEX VERSION 1.134
+/Users/edwingeorgelazer/Desktop/01_EDWIN/01_LEARNINGS/JAVA/JSP_AND_SERVLETS/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1906633020.index
+/JSPProject/src/main/java
+/Users/edwingeorgelazer/Desktop/01_EDWIN/01_LEARNINGS/JAVA/JSP_AND_SERVLETS/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2963904746.index
+/SimpleServletProject/src/main/java
+/Users/edwingeorgelazer/Desktop/01_EDWIN/01_LEARNINGS/JAVA/JSP_AND_SERVLETS/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3173800844.index
+/LoginApp/src/main/java

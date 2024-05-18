@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Simple Form</title>
+</head>
+<body>
+
+<form action="XmlServletPath" method="post">
+	<input name="userName"/>
+	<input name="fullName"/>
+	Profession:
+	<input type="radio" name="prof" value="Developer">Developer</input>
+	<input type="radio" name="prof" value="Architect">Architect</input>
+	<br/>
+	<select name="location">
+		<option value="here">here</option>
+		<option value="there">there</option>
+	</select>
+	<input type="submit" />
+</form>
+</body>
+</html>
